@@ -1,1 +1,0 @@
-# -Hand-Gesture-Sign-Detection-Project-
